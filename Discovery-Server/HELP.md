@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'Book-Store-Ecommerce.com.Discovery-Server' is invalid and this project uses 'BookStoreEcommerce.com.DiscoveryServer' instead.
+* The original package name 'Discovery-Server.com.Discovery-Server' is invalid and this project uses 'DiscoveryServer.com.DiscoveryServer' instead.
 
 # Getting Started
 
