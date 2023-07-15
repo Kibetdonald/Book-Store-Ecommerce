@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Api-Gateway/Api-Gateway.iml" filepath="$PROJECT_DIR$/Api-Gateway/Api-Gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Discovery-Server/Discovery-Server.iml" filepath="$PROJECT_DIR$/Discovery-Server/Discovery-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory-service/Inventory-service.iml" filepath="$PROJECT_DIR$/Inventory-service/Inventory-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Product-Service/Product-Service.iml" filepath="$PROJECT_DIR$/Product-Service/Product-Service.iml" />
     </modules>
   </component>

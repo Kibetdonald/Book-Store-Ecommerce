@@ -10,19 +10,22 @@
         <module name="Discovery-Server" />
         <module name="Api-Gateway" />
         <module name="Product-Service" />
+        <module name="Inventory-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Api-Gateway" target="17" />
       <module name="Discovery-Server" target="17" />
+      <module name="Inventory-service" target="17" />
       <module name="Product-Service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Api-Gateway" options="-parameters --add-modules java.base" />
-      <module name="Discovery-Server" options="-parameters --add-modules java.base" />
-      <module name="Product-Service" options="-parameters --add-modules java.base" />
+      <module name="Api-Gateway" options="-parameters" />
+      <module name="Discovery-Server" options="-parameters" />
+      <module name="Inventory-service" options="-parameters" />
+      <module name="Product-Service" options="-parameters" />
     </option>
   </component>
 </project>
