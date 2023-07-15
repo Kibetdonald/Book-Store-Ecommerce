@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c360ffb-6b97-4287-9b63-d62fa66c4515" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory-service/src/main/java/Inventoryservice/com/Inventoryservice/Controllers/InventoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory-service/src/main/java/Inventoryservice/com/Inventoryservice/Models/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory-service/src/main/java/Inventoryservice/com/Inventoryservice/Repository/InventoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inventory-service/src/main/java/Inventoryservice/com/Inventoryservice/Services/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Controllers/OrderControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Models/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Services/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -76,13 +75,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/Desktop/Spring Boot/Book-Store-Ecommerce/Inventory-service/pom.xml",
+    "last_opened_file_path": "C:/Users/user/Desktop/Spring Boot/Book-Store-Ecommerce/Order-service/pom.xml",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "show.run.dashboard.notification": "false",
     "spring.configuration.checksum": "1203678043ac102a230b0fa2c73b1c4f"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.InventoryServiceApplication">
+  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,6 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Orderservice.com.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProductServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Product-Service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ProductService.com.ProductService.ProductServiceApplication" />
@@ -161,7 +167,7 @@
       <workItem from="1689271390313" duration="1740000" />
       <workItem from="1689332542966" duration="167000" />
       <workItem from="1689337894063" duration="6587000" />
-      <workItem from="1689407753616" duration="1568000" />
+      <workItem from="1689407753616" duration="3075000" />
     </task>
     <servers />
   </component>
