@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c360ffb-6b97-4287-9b63-d62fa66c4515" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Controllers/OrderControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Models/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Services/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order-service/src/test/java/Orderservice/com/Controllers/OrderControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Controllers/OrderControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Order-service/src/main/java/Orderservice/com/Controllers/OrderControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Order-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +73,30 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/user/Desktop/Spring Boot/Book-Store-Ecommerce/Order-service/src/test/java",
     "last_opened_file_path": "C:/Users/user/Desktop/Spring Boot/Book-Store-Ecommerce/Order-service/pom.xml",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "show.run.dashboard.notification": "false",
-    "spring.configuration.checksum": "1203678043ac102a230b0fa2c73b1c4f"
+    "spring.configuration.checksum": "6038064eca040e482128fe4e2501ceb2"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication (1)">
+    <configuration name="OrderServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Orderservice.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Orderservice.com" />
+      <option name="MAIN_CLASS_NAME" value="Orderservice.com.OrderServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,6 +167,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ApiGatewayApplication (1)" />
+        <item itemvalue="JUnit.OrderServiceApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +184,7 @@
       <workItem from="1689332542966" duration="167000" />
       <workItem from="1689337894063" duration="6587000" />
       <workItem from="1689407753616" duration="3075000" />
+      <workItem from="1689498291329" duration="1569000" />
     </task>
     <servers />
   </component>
