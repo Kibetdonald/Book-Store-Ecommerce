@@ -18,5 +18,5 @@ This project is a microservices-based ecommerce shop built using Spring Boot. Th
  - PostgreSQL
 
 ### Proposed System Architecture
-<img src="https://github.com/Kibetdonald/Book-Store-Ecommerce/assets/50916200/cbc61490-253a-46b9-941b-c95b8e70b8fe.JPG" width="90%" />
+<img src="https://github.com/Kibetdonald/Book-Store-Ecommerce/assets/50916200/cbc61490-253a-46b9-941b-c95b8e70b8fe.JPG" width="95%" />
 
