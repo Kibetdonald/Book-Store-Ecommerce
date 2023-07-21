@@ -24,6 +24,9 @@ public class Inventory {
     @Column(nullable = false)
     private int quantity;
 
+    public Inventory(Object o, String book3, String author3, String isbn3, double v, int i) {
+    }
+
     // Getters, and setters
 
     public Long getId() {
